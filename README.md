@@ -10,8 +10,8 @@ This repository contains only data and baseline solutions for the shared tasks. 
 * [`diarization_baseline.ipynb`](https://raw.githubusercontent.com/field-matters/ST2022/main/diarization_baseline.ipynb) &mdash; baseline solution for diarization task
 * [`asr_baseline.ipynb`](https://raw.githubusercontent.com/field-matters/ST2022/main/asr_baseline.ipynb) &mdash; baseline solution for ASR task
 
-* [`asr_data_train_1.csv`](https://raw.githubusercontent.com/field-matters/ST2022/main/asr_data_train_1.csv) &mdash; Train 1 dataset for the ASR track
-* [`asr_data.csv`](ссылка на архив) &mdash; an archive containing the files referenced in ASR Train 1 dataset TBA
+* [`asr_data.csv`](https://files.deeppavlov.ai/field-matters/releases/train-1/asr_data.csv) &mdash; Train 1 dataset for the ASR track
+* [`asr_sound.zip`](https://files.deeppavlov.ai/field-matters/releases/train-1/asr_sound.zip) &mdash; an archive containing the files referenced in ASR Train 1 dataset TBA
 
-* [`dia_data_train_1.csv`](https://raw.githubusercontent.com/field-matters/ST2022/main/dia_data_train_1.csv) &mdash; Train 1 dataset for the diarization track
-* [`asr_data.csv`](ссылка на архив) &mdash; an archive containing the files referenced in diarization Train 1 dataset TBA
+* [`dia_data.csv`](https://files.deeppavlov.ai/field-matters/releases/train-1/dia_data.csv) &mdash; Train 1 dataset for the diarization track
+* [`dia_sound.zip`](https://files.deeppavlov.ai/field-matters/releases/train-1/dia_sound.zip) &mdash; an archive containing the files referenced in diarization Train 1 dataset TBA
